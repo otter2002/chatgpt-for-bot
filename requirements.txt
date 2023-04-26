@@ -33,6 +33,6 @@ poe-api~=0.3.1
 
 regex~=2023.3.23
 httpx
-Quart==0.17.0
+Quart==0.18.4
 
 edge-tts
